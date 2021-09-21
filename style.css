@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: darkgray;
+}
+form{
+    width: 500px;
+    border-radius: 1cm;
+    border-color: black;
+    background: #fffffff5;
+    padding: 30px;
+    margin: auto;
+    margin-top: 20px;
+    font-family: Helvetica;
+    color: rgb(47, 48, 49);
+    border-radius: 10px;
+}
+input{
+    color: rgb(0, 0, 0);
+}
+
+i{
+    margin-left: 400px;
+    background-color: white;
+}
+button{
+    color: white;
+    margin-left: 20px;
+}
+h5{
+    background-color: white;
+    margin-left: 100px;
+}
+h6{
+    background-color: white;
+}
+div{
+    background-color: white;
+}
+#boton{
+    margin-left: 350px;
+    margin-top: -80px;
+}
+input{
+    border: none;
+    text-decoration:brown ;
+    padding: 10px 20px;
+    margin-left: 20px;
+}
+#bandera{
+margin-left: 10px;
+background-color: white;
+}
